@@ -1,6 +1,5 @@
 [
   "botsnack.coffee",
-  "github-issue-link.coffee",
   "github-search.coffee",
   "uptime.coffee",
   "xkcd.coffee"
